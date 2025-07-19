@@ -10,7 +10,7 @@
 ![Threads](https://img.shields.io/badge/Multithreaded-FF6B6B?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/High_Performance-4ECDC4?style=for-the-badge)
 
-**[🎯 Live Demo](https://shorturl.at/EgSko) • [📊 Architecture Diagram](https://exaclidraw.com/#json=YSdVKsL5r6W7O6bXTkZZS,h5U1nyqCHOIauKFXlsIMNg) • [⭐ Star This Repo](https://github.com/SuryaKTiwari11)**
+**[🎯 Live Demo](https://shorturl.at/EgSko) • [📊 Architecture Diagram](https://shorturl.at/EgSko) • [⭐ Star This Repo](https://github.com/SuryaKTiwari11)**
 
 </div>
 
